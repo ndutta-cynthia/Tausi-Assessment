@@ -2,7 +2,7 @@
 # Movie Search App
 
 ## Overview
-The Movie Search App is a web application that allows users to search for movies using The Movie Database (TMDb) API. Users can explore popular movies, search for specific titles, and view movie details.
+The Movie Search App is a web application that allows users to search for movies using The Movie Database (TMDb) API. Users can explore popular movies and search for specific titles.
 
 ## Features
 - Search for movies by title
